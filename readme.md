@@ -1,3 +1,5 @@
+A simple processing sketch to simulate a star system in a 3D space.
+
 User can create new planet to move around the big planet in the middle, by clicking left mouse button
 
 User can increase/decrease the size of the new planets by pressing UP and DOWN key
